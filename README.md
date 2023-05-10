@@ -2,8 +2,14 @@
 This is a Python script that checks whether a password has been leaked before using the [Have I Been](https://haveibeenpwned.com/) Pwned API.
 
 ### Installation
-1. Clone this repository to your local machine using `https://github.com/<username>/leaked-password-detector.git`
-2. Install the required libraries using `pip install -r requirements.txt`
+1. Clone this repository to your local machine using 
+```
+git clone https://github.com/<username>/leaked-password-detector.git
+```
+3. Install the required libraries using 
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 Run the script with one or more passwords as command line arguments, like so:
