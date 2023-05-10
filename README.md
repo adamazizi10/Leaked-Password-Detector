@@ -18,7 +18,11 @@ pip install -r requirements.txt
 ### Usage
 Run the script with one or more passwords as command line arguments, like so:
 ```python 
-checkmypass.py password1 password2 password3
+checkmypass.py your_password
+```
+For example:
+```python
+checkmypass.py password123
 ```
 The script will then check each password against the Have I Been Pwned database and return a message indicating whether the password has been leaked before.
 
