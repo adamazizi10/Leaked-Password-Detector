@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-Run the script with the password you want to check as command line arguments, like so:
+Run the script with the password you want to check as command line arguments:
 ```python 
 checkmypass.py your_password
 ```
