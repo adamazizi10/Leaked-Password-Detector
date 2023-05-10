@@ -6,7 +6,11 @@ This is a Python script that checks whether a password has been leaked before us
 ```
 git clone https://github.com/<username>/leaked-password-detector.git
 ```
-2. Install the required libraries using 
+2. Navigate to the folder using
+```
+cd Leaked-Password-Detector/
+```
+3. Install the required libraries using 
 ```
 pip install -r requirements.txt
 ```
