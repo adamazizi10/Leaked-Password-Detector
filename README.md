@@ -1,5 +1,5 @@
 # Leaked-Password-Detector
-This is a Python script that checks whether a password has been leaked before, using the <a href="https://haveibeenpwned.com/" target="_blank">Have I Been Pwned</a> API.
+This is a Python script that checks whether a password has been leaked before, using the [Have I Been](https://haveibeenpwned.com/) Pwned API.
 
 ### Installation
 1. Clone this repository to your local device using: 
